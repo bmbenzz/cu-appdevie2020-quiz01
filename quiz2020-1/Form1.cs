@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+ควยยยยยยยยย ดราก้อน 3 นิ้ว สั้นจังวะ อิอิ
 namespace quiz2020_1
 {
     public partial class Form1 : Form
